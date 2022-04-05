@@ -1,0 +1,14 @@
+{
+  "name": "node-fs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "xodeeq",
+  "license": "ISC",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
